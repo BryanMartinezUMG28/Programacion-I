@@ -1,5 +1,4 @@
-# Programacion-I
-Trabajos, tareas de programacion I umg 
+
 #include <stdio.h>
  
 int BuscaNumero(int valores[], int tamanio, int busca)
